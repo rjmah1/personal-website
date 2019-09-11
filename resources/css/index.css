@@ -7,7 +7,6 @@ body {
   font-family: sans-serif;
   background-color: #0093E9;
   background-image: linear-gradient(160deg, #0093E9, #80D0C7);
-  text-indent: 10px;
 }
 
 .header {
@@ -57,6 +56,8 @@ body {
 .contact a:hover, .projects a:hover {
   color: fuchsia;
 }
+
+
 
 @media screen and (max-width: 500px) {
   .header a {
